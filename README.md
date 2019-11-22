@@ -1,6 +1,6 @@
 Este es un proyecto hecho en NetBeans 11
 
-![alt text](https://imgur.com/a/aEE9sBe)
+![alt text](https://i.imgur.com/8tARyzd.png)
 
 ## Instrucciones
 
